@@ -7,7 +7,7 @@ This is the readme file for the AJAX page project, which is a simple project tha
 2. index.html #The HTML File
 3. app.js #The JavaScript File
 4. README.md #this readme file
-5.jquery.js #the jQuery library
+5. jquery.js #the jQuery library
 6. some icons
 
 ## Dependencies:
