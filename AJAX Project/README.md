@@ -12,5 +12,5 @@ This is the readme file for the AJAX page project, which is a simple project tha
 
 ## Dependencies:
 
-This just needs jQuery library to run
+This just needs jQuery library to run.
 Enjoy!
