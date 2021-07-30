@@ -1,4 +1,4 @@
-# The Landing Page Project
+# AJAX with jQuery Project
 
 This is the readme file for the AJAX page project, which is a simple project that shows articles and pics of a searched keyword, and displays them in the browser for users to click.
 ## Contains:
